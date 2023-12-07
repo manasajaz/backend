@@ -1,0 +1,111 @@
+html:------------
+
+web workers
+
+
+
+css:---------
+
+flex se kch bhi
+variable bn skte hn ? yes
+css grid kia hote hai
+
+
+
+
+js:---------
+
+1)synchronous hai ya Asyncroneous
+1)agr js syncroneous hai tu set time out kese kam krta hai
+1)Event loop kia hai or kis trah kam krta hai
+1)clouser kia hn
+1)arrow function or normal me kia farq hai
+1)var, let , const me farq
+1)ternery operater kia hn
+1)... dot define {spread operater, rest operater}
+1)default parameter 
+1)hoisting
+1)kon kon se chezen hoist hote hn var,let const function sb hoist hote hn jis me var, let top pe chle jate hn
+1)set timeout ka delay kese khtm krskte hn (imp)
+1)asyn await kia hota hai or q hota hai
+1)promises me hm kis trah kam krte hn
+1)promises or asyn await me kia farq hai
+1)Event loop me promises , asyn await , set timeout 3 await kese chlte hn
+1)ap kha pe == use krte hn or kha === 
+
+
+js Actual question:--------
+
+without axios call Api
+array me sorting  
+string reversr without any function
+
+let a = bag;
+let b = baggbagbaggbag
+
+is b me bag ktne dfa askta hai
+
+let arr =  [1,2,2,4,3,4,5,6,3,1,5]
+is me sare 5 se chote number 5 se phly baki bd me
+
+
+
+React:------
+
+react me custom hooks bna skte hn ? or kis trah bna skte hn
+child se parent me data kis trah le sktehn
+child se parent ka function kis trah call krskte hn
+useMemo, useCallback konse hook hn or kese use hota hai
+unnecessary render ko kese roken usestate har bar re render krata hai (or ye hoga useMemo, useCallback)
+React me virtual dom kia hai 
+state and props me diff
+
+
+
+Redux:------------
+redux lifecycle
+reducer kese bnte hn
+createstore, slice  kha se import hota hai
+redux me ap kon se info rkhte hn 
+Action kia hote hn or is data kis trah milta hai (dsre parameter k payload me)
+redux ke Action k 1st parameter me kia mita hai (1ps parameter hmare state btata hai)
+middle ware kia hn
+
+
+Extra skill:---
+Next js 
+opp concept
+AWS
+docker
+kubernetice
+linux
+postgrade Sql
+time complexity
+
+
+
+
+Node js:--------
+single credit kia hota hai
+node js syncroneous hai ya Asyncroneous ?
+middle ware kia hn
+Express me error handling kese hote hai
+validation k lye konse libraray us hoskte hai
+Agr node js single credit hai tu at a time 2 request a skti hn? (yes)
+ORM kia hota hai (is basically Query)like mongoose jese findone etc
+
+Practice :
+schema bnana hai comments ka 
+
+
+database se error handling kese hogi
+konsa DB is bhtr hai json ya tangular?
+firebase ko q use nhi krte 
+kia Mongo DB me relation bn skte hn? kia ye mongodb  relational DB
+backend me ap apni app ko kese secure krenge
+
+Angular or React me difference
+
+
+
+
